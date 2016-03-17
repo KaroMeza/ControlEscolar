@@ -36,3 +36,7 @@ Conclusiones:
 El sistema sirve para gestionar los servicios del departamento de control escolar.
 
 _______________________________________________________________________________________
+
+Nueva Seccion
+
+_______________________________________________________________________________________
