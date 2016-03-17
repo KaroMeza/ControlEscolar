@@ -1,0 +1,29 @@
+commit 1d803db422a97f2b0c813c881b562f6fee59c918
+Author: Karolina Meza <karomm7@hotmail.com>
+Date:   Thu Mar 17 10:23:30 2016 -0700
+
+    Conclusiones:
+
+commit 3356d1f0547e6b2a99a71987d57b9dca563d18e7
+Author: Karolina Meza <karomm7@hotmail.com>
+Date:   Thu Mar 17 10:21:18 2016 -0700
+
+    Lista de casos de uso:
+
+commit f81ebc2f777c6bfebf304df44da4eab8d18253b7
+Author: Karolina Meza <karomm7@hotmail.com>
+Date:   Thu Mar 17 10:20:04 2016 -0700
+
+    Requisitos no funcionales:
+
+commit 4727e70f19f062749e7005d71fe108d4c3a53f9c
+Author: Karolina Meza <karomm7@hotmail.com>
+Date:   Thu Mar 17 10:18:39 2016 -0700
+
+    Requisitos funcionales
+
+commit 460580b2759f2af4274e1901e505471708be7899
+Author: Karolina Meza <karomm7@hotmail.com>
+Date:   Tue Mar 15 10:51:21 2016 -0700
+
+    Documento de Requisitos
