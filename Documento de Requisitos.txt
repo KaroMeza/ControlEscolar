@@ -30,3 +30,9 @@ CU002: Imprimir kardex.
 CU003: Cargar materias.
 
 ______________________________________________________________________________________
+
+Conclusiones:
+
+El sistema sirve para gestionar los servicios del departamento de control escolar.
+
+_______________________________________________________________________________________
