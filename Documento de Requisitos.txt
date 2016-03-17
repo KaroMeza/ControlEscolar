@@ -20,3 +20,13 @@ RNF002: El sistema debe ser rápido.
 RNF003: El sistema debe ser seguro.
 
 _________________________________________________________________________________________
+
+Lista de casos de uso:
+
+CU001: Registrar alumnos.
+
+CU002: Imprimir kardex.
+
+CU003: Cargar materias.
+
+______________________________________________________________________________________
