@@ -11,3 +11,12 @@ RF003: El sistema debe permitir la carga de materias.
 
 _________________________________________________________________________________________
 
+Requisitos no funcionales:
+
+RNF001: El sistema debe ser usable.
+
+RNF002: El sistema debe ser rápido.
+
+RNF003: El sistema debe ser seguro.
+
+_________________________________________________________________________________________
