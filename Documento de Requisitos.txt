@@ -11,7 +11,8 @@ RF003: El sistema debe permitir la carga de materias.
 
 _________________________________________________________________________________________
 
-Requisitos no funcionales:
+Requ
+isitos no funcionales:
 
 RNF001: El sistema debe ser usable.
 
@@ -56,3 +57,8 @@ ________________________________________________________________________________
 
 Nueva seccion de prueba
 _________________________________________________________________________________________
+
+1o
+1o
+1o
+po
